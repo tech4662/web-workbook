@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Peter Sifuentez's Resume</title>
+  <meta name="utf-8"/>
+</head>
+<body>
+<h1 style="font family: Arial"><strong>Peter Sifuentez's Resume</strong></h1>
+<h2 style="font family: Arial"><strong>Objectives:</strong></h2>
+  <p style="font family: Arial"><em>Looking for a new challenge.</em></p>
+<h2 style="font family: Arial"><strong>Work experience:</strong></h2>
+  <ul>
+    <li style="font family: Arial">G4S: Security supervisor</li>
+      <p style="font family: Arial"><em>My current job at G4S requires me to oversee a team of 20 Security guards to insure they all do there partols and I'm in charge with handling the client's every needs when my supervisor is not present.</em></p>
+    <li style="font family: Arial">adidas Group: Sales associate</li>
+      <p style="font family: Arial"><em>Working for the adidas Group for nearly 3 years, has taught me the essentials of being successful in the sportswear industry and taught the fundmaments of salesmanship.</em></p>
+    <li style="font family: Arial">Bike barn: Sales associate</li>
+      <p style="font family: Arial"><em>Being at Bike Barn taught me how to do my work in a different retail environment.</em></p>
+  </ul>
+  <h2 style="font family: Arial"><strong>Key skills:</strong></h2>
+    <ul>
+      <li style="font family: Arial"><em>Meets Deadlines</em></li>
+      <li style="font family: Arial"><em>Training employees</em></li>
+      <li style="font family: Arial"><em>Leadership</em></li>
+      <li style="font family: Arial"><em>Salesmanship</em></li>
+      <li style="font family: Arial"><em>Works well under pressure</em></li>
+      <li style="font family: Arial"><em>Time management</em></li>
+      <li style="font family: Arial"><em>Analytic problem solver</em></li>
+    </ul>
+</body>
+</html>
