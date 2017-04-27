@@ -1,0 +1,15 @@
+body {
+   background-color: gray;
+   border: 3x soild grey;
+   padding: 40px; font-family: Arial, Verdana, monospace, serif;
+   font-weight: normal;
+}
+h1{
+  text-align: center;
+}
+p {
+  font-size: 17px;
+}
+img{
+  image-orientation: center;
+}
